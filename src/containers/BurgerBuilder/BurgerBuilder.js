@@ -7,7 +7,7 @@ class BurgerBuilder extends Component{
     return(
       <Aux>
         <div>Burger</div>
-        <div>Burger Contents</div>
+        <div>Build controls</div>
       </Aux>
     );
   };
